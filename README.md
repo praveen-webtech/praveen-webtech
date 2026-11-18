@@ -1,50 +1,52 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:302b63&height=200&section=header&text=Praveen&fontSize=60&fontColor=e6edf3&fontAlignY=38&desc=Web%20Developer%20%7C%20Multimedia%20%26%20Web%20Technology%20Undergraduate%20%7C%20Creative%20Designer&descSize=16&descColor=a78bfa&descAlignY=62" width="100%" alt="Praveen"/>
+<img src="assets/banner.svg" width="100%" alt="Praveen - Web Developer, UI/UX Designer, Multimedia Creator" />
+
+<br/>
 
 **Building modern, responsive web experiences where clean engineering meets thoughtful design.**
 
 <br/>
 
-<a href="https://www.linkedin.com/in/praveen-manahara-b39826450/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" /></a>
-<a href="mailto:praveenmanahara7@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-a78bfa?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" /></a>
-<img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-6b7280?style=flat-square&logo=googlechrome&logoColor=white&labelColor=0d1117" alt="Portfolio" />
-<img src="https://img.shields.io/badge/Location-Sri%20Lanka-302b63?style=flat-square&labelColor=0d1117" alt="Location" />
-
-</div>
+<a href="https://www.linkedin.com/in/praveen-manahara-b39826450/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" /></a>
+<a href="mailto:praveenmanahara7@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-a78bfa?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" /></a>
+<img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-6b7280?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117" alt="Portfolio" />
 
 <br/>
+
+![Open to Work](https://img.shields.io/badge/Open%20to-Internships%20%26%20Junior%20Roles-22c55e?style=flat-square&labelColor=0d1117)
+![Location](https://img.shields.io/badge/Location-Sri%20Lanka-302b63?style=flat-square&labelColor=0d1117)
+![Focus](https://img.shields.io/badge/Focus-Web%20%7C%20UI%2FUX%20%7C%20Multimedia-7c3aed?style=flat-square&labelColor=0d1117)
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+</div>
 
 ## 👋 About Me
 
 I'm an undergraduate in **Multimedia and Web Technology** with a focus on front-end development and UI/UX design. I enjoy turning ideas into polished, user-friendly web applications, and I'm continuously strengthening my programming and design skills through hands-on projects.
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
+| | |
+|:---|:---|
+| 🎓 **Education** | Undergraduate, Multimedia and Web Technology |
+| 💻 **Focus Areas** | Web Development · UI/UX Design · Multimedia Design |
+| 🌱 **Currently** | Improving full-stack development skills |
+| 🚀 **Building** | Portfolio projects and modern web applications |
+| 📍 **Based in** | Sri Lanka 🇱🇰 |
 
-**🎓 Education**
-Undergraduate, Multimedia and Web Technology
+<div align="center">
+<img src="assets/divider.svg" width="100%" alt="" />
+</div>
 
-**💻 Focus Areas**
-Web Development · UI/UX Design · Multimedia Design
+## 🎯 What I Do
 
-    </td>
-    <td width="50%" valign="top">
+| 🌐 **Web Development** | 🎨 **UI/UX Design** | 🎬 **Multimedia Design** |
+|:---:|:---:|:---:|
+| Responsive websites and interactive web applications | Clean, user-friendly interfaces and layouts | Creative visuals and digital media for the web |
 
-**🌱 Currently**
-Improving full-stack development skills
-
-**🚀 Building**
-Portfolio projects and modern web applications
-
-    </td>
-  </tr>
-</table>
-
-> 🔎 **Open to** internships and junior web developer opportunities.
-
-<br/>
+<div align="center">
+<img src="assets/divider.svg" width="100%" alt="" />
+</div>
 
 ## 🛠️ Tech Stack
 
@@ -54,11 +56,14 @@ Portfolio projects and modern web applications
 | **Backend & Database** | <img src="https://skillicons.dev/icons?i=php,mysql&theme=dark" align="center" alt="Backend" /> |
 | **Design & Tools** | <img src="https://skillicons.dev/icons?i=figma,ps,ai,vscode,git,github&theme=dark" align="center" alt="Tools" /> |
 
-<br/>
+<div align="center">
+<img src="assets/divider.svg" width="100%" alt="" />
+</div>
 
 ## 🌟 Featured Project
 
 ### 🌍 Ceylon Explore
+
 A responsive, database-driven travel platform that showcases the destinations and travel experiences of Sri Lanka.
 
 | | |
@@ -67,9 +72,11 @@ A responsive, database-driven travel platform that showcases the destinations an
 | **Highlights** | Responsive UI · Destination showcase · Interactive features · Database integration |
 | **Stack** | `HTML` `CSS` `JavaScript` `PHP` `MySQL` |
 
-[**View Repository →**](https://github.com/praveen-webtech/ceylon-explore)
+<a href="https://github.com/praveen-webtech/ceylon-explore"><img src="https://img.shields.io/badge/View%20Repository-7c3aed?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="View Repository" /></a>
 
-<br/>
+<div align="center">
+<img src="assets/divider.svg" width="100%" alt="" />
+</div>
 
 ## 📊 GitHub Stats
 
@@ -80,7 +87,9 @@ A responsive, database-driven travel platform that showcases the destinations an
 
 </div>
 
-<br/>
+<div align="center">
+<img src="assets/divider.svg" width="100%" alt="" />
+</div>
 
 ## 🤝 Let's Connect
 
@@ -90,12 +99,12 @@ I'm always open to collaborating on interesting projects and learning from the d
 - 📧 **Email:** [praveenmanahara7@gmail.com](mailto:praveenmanahara7@gmail.com)
 - 🌐 **Portfolio:** Coming soon
 
-<br/>
-
 <div align="center">
+
+<br/>
 
 *“To combine creativity and technology to build innovative digital experiences.”*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:0d1117&height=100&section=footer" width="100%" alt="footer"/>
+<img src="assets/footer.svg" width="100%" alt="Keep Learning, Keep Building, Keep Creating" />
 
 </div>
