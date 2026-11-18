@@ -53,7 +53,7 @@ I'm an undergraduate in **Multimedia and Web Technology** with a focus on front-
 | Category | Technologies |
 |:---|:---|
 | **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind&theme=dark" align="center" alt="Frontend" /> |
-| **Backend & Database** | <img src="https://skillicons.dev/icons?i=php,mysql&theme=dark" align="center" alt="Backend" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" align="center" alt="Backend" /> |
 | **Design & Tools** | <img src="https://skillicons.dev/icons?i=figma,ps,ai,vscode,git,github&theme=dark" align="center" alt="Tools" /> |
 
 <div align="center">
@@ -64,13 +64,14 @@ I'm an undergraduate in **Multimedia and Web Technology** with a focus on front-
 
 ### 🌍 Ceylon Explore
 
-A responsive, database-driven travel platform that showcases the destinations and travel experiences of Sri Lanka.
+A travel website showcasing Sri Lanka's destinations, stays, and ways to travel, with a built-in admin panel for managing trip requests and site content.
 
 | | |
 |:---|:---|
 | **Role** | Design & Full-Stack Development |
-| **Highlights** | Responsive UI · Destination showcase · Interactive features · Database integration |
-| **Stack** | `HTML` `CSS` `JavaScript` `PHP` `MySQL` |
+| **Website** | Responsive UI · Trip request form · "Ways to travel" and "Stays" sections |
+| **Admin Panel** | Search, filter and manage trip requests · Status updates and notes · CSV export · Edit content and upload photos · Password-protected access |
+| **Stack** | `HTML` `CSS` `JavaScript` `Node.js` `JSON` |
 
 <a href="https://github.com/praveen-webtech/ceylon-explore"><img src="https://img.shields.io/badge/View%20Repository-7c3aed?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="View Repository" /></a>
 
