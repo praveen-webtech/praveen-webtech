@@ -1,79 +1,121 @@
-<p align="center">
-  <img src="assets/github-banner.png" width="100%" />
-</p># 👋 Hi, I'm Praveen!
+<!-- ============ HEADER ============ -->
+<div align="center">
 
-### 💻 Multimedia & Web Technology Undergraduate | Web Developer | Creative Designer
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Hi,%20I'm%20Praveen%20👋&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Multimedia%20%26%20Web%20Technology%20Undergraduate%20|%20Web%20Developer%20|%20Creative%20Designer&descSize=16&descAlignY=60" width="100%" alt="header"/>
 
-Welcome to my GitHub profile! I'm passionate about creating modern websites, interactive web applications, and creative digital experiences.
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+modern+websites;Crafting+interactive+web+apps;Designing+creative+digital+experiences;Keep+Learning+%7C+Keep+Building+%7C+Keep+Creating" alt="Typing SVG" />
+</a>
 
-I enjoy combining technology and creativity to build meaningful digital solutions. I'm continuously learning new technologies and improving my development and design skills.
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=7c3aed&style=for-the-badge&labelColor=0d1117)
+![Location](https://img.shields.io/badge/Based%20in-Sri%20Lanka%20🇱🇰-302b63?style=for-the-badge&labelColor=0d1117)
+![Status](https://img.shields.io/badge/Status-Open%20to%20Opportunities-22c55e?style=for-the-badge&labelColor=0d1117)
+
+</div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 🎓 Undergraduate in Multimedia and Web Technology
-- 💻 Interested in Web Development and UI/UX Design
-- 🎨 Passionate about Multimedia and Creative Design
-- 🌱 Currently improving my programming and development skills
-- 🚀 Building creative projects for my portfolio
-- 🇱🇰 Based in Sri Lanka
+I'm passionate about creating **modern websites**, **interactive web applications**, and **creative digital experiences**. I enjoy combining technology and creativity to build meaningful digital solutions, and I'm continuously learning new technologies while improving my development and design skills.
+
+| | |
+|---|---|
+| 🎓 **Studying** | Multimedia & Web Technology (Undergraduate) |
+| 💻 **Interested in** | Web Development & UI/UX Design |
+| 🎨 **Passionate about** | Multimedia & Creative Design |
+| 🌱 **Currently** | Improving my programming & development skills |
+| 🚀 **Building** | Creative projects for my portfolio |
+| 📍 **Location** | Sri Lanka 🇱🇰 |
 
 ---
 
 ## 🛠️ Technologies & Tools
 
 ### 💻 Frontend Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react&theme=dark" alt="frontend" />
+</p>
 
 ### ⚙️ Backend & Database
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=php,mysql,nodejs,git,github&theme=dark" alt="backend" />
+</p>
 
 ### 🎨 Design & Development Tools
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,ai,ps,ae,pr,vscode&theme=dark" alt="tools" />
+</p>
 
 ---
 
 ## 🌟 Featured Projects
 
-### 🌍 Ceylon Explore
-A web-based platform showcasing the beauty, destinations, and travel experiences of Sri Lanka.
-
-- Modern and responsive user interface
-- Travel destination showcase
-- Interactive website features
-- Database integration
-
-**Technologies:** HTML, CSS, JavaScript, PHP, MySQL
+<table>
+  <tr>
+    <td>
+      <h3>🌍 Ceylon Explore</h3>
+      <p>A web-based platform showcasing the beauty, destinations, and travel experiences of Sri Lanka.</p>
+      <ul>
+        <li>✨ Modern and responsive user interface</li>
+        <li>🏝️ Travel destination showcase</li>
+        <li>⚡ Interactive website features</li>
+        <li>🗄️ Database integration</li>
+      </ul>
+      <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      <br/><br/>
+      <a href="https://github.com/YOUR_USERNAME/ceylon-explore">
+        <img src="https://img.shields.io/badge/View%20Repository-7c3aed?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed" alt="stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa" alt="top langs" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa" alt="streak" />
+
+</div>
 
 ---
 
 ## 🤝 Connect With Me
 
-- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/)
-- 🌐 Portfolio: Coming Soon
-- 📧 Email: your-email@example.com
+<div align="center">
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+
+</div>
 
 ---
 
-### 💡 My Goal
+## 💡 My Goal
 
-"To combine creativity and technology to build innovative digital experiences."
+<div align="center">
 
-⭐ Thanks for visiting my GitHub profile!
+> *"To combine creativity and technology to build innovative digital experiences."*
 
-**Keep Learning | Keep Building | Keep Creating** 🚀
+**⭐ Thanks for visiting my GitHub profile!**
+
+`Keep Learning` • `Keep Building` • `Keep Creating` 🚀
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%" alt="footer"/>
