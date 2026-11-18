@@ -1,4 +1,6 @@
-# 👋 Hi, I'm Praveen!
+<p align="center">
+  <img src="assets/github-banner.png" width="100%" />
+</p># 👋 Hi, I'm Praveen!
 
 ### 💻 Multimedia & Web Technology Undergraduate | Web Developer | Creative Designer
 
